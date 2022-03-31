@@ -1,4 +1,4 @@
 # AngularTourOfHeroes
 
-This project was created to learn Angular 
+This project was generated using Angular CLI
 
